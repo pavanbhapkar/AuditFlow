@@ -1,0 +1,54 @@
+{
+  "rules": [
+    {
+      "id": "R1",
+      "type": "OVER_LIMIT",
+      "name": "Category spending limit",
+      "text": "A single claim must not exceed the limit set for its category."
+    },
+    {
+      "id": "R2",
+      "type": "DUPLICATE",
+      "name": "No duplicate claims",
+      "text": "The same employee cannot claim the same vendor, amount and expense date twice."
+    },
+    {
+      "id": "R3",
+      "type": "SPLIT_BILLING",
+      "name": "No split billing",
+      "text": "Claims by the same employee, vendor and category within 2 days must not add up to more than the category limit when each is individually under it."
+    },
+    {
+      "id": "R4",
+      "type": "WEEKEND",
+      "name": "Weekend expenses",
+      "text": "Weekend expenses are only allowed for Travel and Accommodation."
+    },
+    {
+      "id": "R5",
+      "type": "NO_RECEIPT",
+      "name": "Receipt required",
+      "text": "A receipt is mandatory for any claim above 500."
+    },
+    {
+      "id": "R6",
+      "type": "LATE_SUBMISSION",
+      "name": "Submission deadline",
+      "text": "Claims must be submitted within 30 days of the expense date."
+    }
+  ],
+  "params": {
+    "category_limits": {
+      "Travel": 15000,
+      "Meals": 1500,
+      "Accommodation": 8000,
+      "Office Supplies": 5000,
+      "Client Entertainment": 6000,
+      "Software": 10000
+    },
+    "receipt_required_above": 500,
+    "max_submission_delay_days": 30,
+    "split_window_days": 2,
+    "weekend_allowed_categories": ["Travel", "Accommodation"]
+  }
+}

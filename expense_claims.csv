@@ -1,0 +1,331 @@
+claim_id,employee_id,employee_name,department,category,vendor,amount,expense_date,submitted_date,receipt_attached,invoice_no,approval_note,description
+CLM0001,E014,Anjali Gupta,Operations,Travel,IndiGo,5600.65,2026-08-17,2026-08-22,Yes,INV100864,,Travel expense at IndiGo
+CLM0002,E014,Anjali Gupta,Operations,Software,Microsoft 365,2870.51,2026-08-19,2026-09-04,Yes,INV100701,,Software expense at Microsoft 365
+CLM0003,E011,Nikhil Verma,Engineering,Office Supplies,Amazon Business,1122.98,2026-09-07,2026-09-22,Yes,INV100129,,Office Supplies expense at Amazon Business
+CLM0004,E017,Aditya Pillai,Finance,Client Entertainment,Hard Rock Cafe,1716.69,2026-09-16,2026-10-02,Yes,INV101269,,Client Entertainment expense at Hard Rock Cafe
+CLM0005,E003,Rohan Joshi,HR,Accommodation,OYO Business,1293.94,2026-09-29,2026-10-14,Yes,INV101009,,Accommodation expense at OYO Business
+CLM0006,E011,Nikhil Verma,Engineering,Office Supplies,Reliance Digital,1227.8,2026-07-18,2026-07-31,Yes,INV101418,,Office Supplies expense at Reliance Digital
+CLM0007,E018,Kavya Reddy,HR,Software,Microsoft 365,4295.27,2026-07-14,2026-07-19,Yes,INV100200,,Software expense at Microsoft 365
+CLM0008,E013,Siddharth Jain,HR,Accommodation,OYO Business,2812.06,2026-08-28,2026-09-08,Yes,INV100186,,Accommodation expense at OYO Business
+CLM0009,E004,Sneha Kulkarni,Operations,Software,Adobe,2895.1,2026-08-17,2026-08-23,Yes,INV100380,,Software expense at Adobe
+CLM0010,E006,Ishita Shah,Engineering,Client Entertainment,Marriott Events,1428.78,2026-07-14,2026-07-17,Yes,INV101198,,Client Entertainment expense at Marriott Events
+CLM0011,E011,Nikhil Verma,Engineering,Software,Microsoft 365,3628.62,2026-09-09,2026-09-27,Yes,INV101250,,Software expense at Microsoft 365
+CLM0012,E018,Kavya Reddy,HR,Office Supplies,Amazon Business,1205.81,2026-07-27,2026-08-12,Yes,INV101278,,Office Supplies expense at Amazon Business
+CLM0013,E015,Rahul Deshmukh,Sales,Client Entertainment,The Westin,1346.23,2026-07-09,2026-07-20,Yes,INV100113,,Client Entertainment expense at The Westin
+CLM0014,E014,Anjali Gupta,Operations,Travel,IRCTC,5293.63,2026-07-31,2026-08-15,Yes,INV101070,,Travel expense at IRCTC
+CLM0015,E012,Priya Menon,Finance,Office Supplies,Reliance Digital,2174.07,2026-09-28,2026-10-16,Yes,INV100771,,Office Supplies expense at Reliance Digital
+CLM0016,E010,Tanvi Desai,Sales,Software,Microsoft 365,2837.75,2026-09-30,2026-10-14,Yes,INV101201,,Software expense at Microsoft 365
+CLM0017,E016,Neha Kapoor,Engineering,Software,JetBrains,2844.52,2026-07-03,2026-07-06,Yes,INV100442,,Software expense at JetBrains
+CLM0018,E015,Rahul Deshmukh,Sales,Meals,Zomato Business,431.81,2026-09-24,2026-09-25,Yes,INV100694,,Meals expense at Zomato Business
+CLM0019,E009,Arjun Patil,Operations,Client Entertainment,Marriott Events,1547.19,2026-08-08,2026-08-16,Yes,INV101539,Pre-approved exception APR-1187,Client Entertainment expense at Marriott Events
+CLM0020,E005,Vikram Rao,Sales,Client Entertainment,Hard Rock Cafe,2078.86,2026-09-01,2026-09-23,Yes,INV100778,,Client Entertainment expense at Hard Rock Cafe
+CLM0021,E015,Rahul Deshmukh,Sales,Office Supplies,Staples,1196.03,2026-09-14,2026-09-28,Yes,INV100506,,Office Supplies expense at Staples
+CLM0022,E006,Ishita Shah,Engineering,Software,Atlassian,1928.34,2026-09-16,2026-10-01,Yes,INV101216,,Software expense at Atlassian
+CLM0023,E013,Siddharth Jain,HR,Office Supplies,Staples,2119.7,2026-08-07,2026-08-09,No,INV101491,,Office Supplies expense at Staples
+CLM0024,E015,Rahul Deshmukh,Sales,Office Supplies,Reliance Digital,1581.47,2026-07-06,2026-07-21,Yes,INV100999,,Office Supplies expense at Reliance Digital
+CLM0025,E001,Aarav Mehta,Engineering,Meals,Cafe Coffee Day,560.75,2026-07-28,2026-08-10,Yes,INV100898,,Meals expense at Cafe Coffee Day
+CLM0026,E007,Kabir Singh,Finance,Travel,Uber Business,21000.0,2026-09-04,2026-09-19,Yes,INV101567,Verbally approved by manager,Travel expense at Uber Business
+CLM0027,E006,Ishita Shah,Engineering,Office Supplies,Amazon Business,1140.23,2026-08-11,2026-08-18,Yes,INV100368,,Office Supplies expense at Amazon Business
+CLM0028,E001,Aarav Mehta,Engineering,Accommodation,Lemon Tree,3092.45,2026-08-14,2026-08-22,Yes,INV101156,,Accommodation expense at Lemon Tree
+CLM0029,E003,Rohan Joshi,HR,Software,Microsoft 365,4057.02,2026-09-07,2026-09-20,Yes,INV100662,,Software expense at Microsoft 365
+CLM0030,E001,Aarav Mehta,Engineering,Office Supplies,Staples,2131.74,2026-08-10,2026-08-29,Yes,INV100937,,Office Supplies expense at Staples
+CLM0031,E002,Diya Nair,Finance,Accommodation,Taj Hotels,2000.54,2026-07-17,2026-07-26,Yes,INV100216,,Accommodation expense at Taj Hotels
+CLM0032,E008,Meera Iyer,HR,Client Entertainment,Marriott Events,1970.13,2026-09-18,2026-09-21,Yes,INV100180,,Client Entertainment expense at Marriott Events
+CLM0033,E003,Rohan Joshi,HR,Meals,Barbeque Nation,575.33,2026-08-19,2026-09-07,Yes,INV101217,,Meals expense at Barbeque Nation
+CLM0034,E013,Siddharth Jain,HR,Client Entertainment,Marriott Events,1752.12,2026-09-21,2026-09-28,Yes,INV101170,,Client Entertainment expense at Marriott Events
+CLM0035,E016,Neha Kapoor,Engineering,Accommodation,Ibis,4800.0,2026-08-07,2026-08-11,Yes,INV101373,,Accommodation expense at Ibis
+CLM0036,E007,Kabir Singh,Finance,Software,Atlassian,3276.29,2026-07-14,2026-07-24,Yes,INV100389,,Software expense at Atlassian
+CLM0037,E009,Arjun Patil,Operations,Software,JetBrains,3380.25,2026-08-05,2026-08-20,Yes,INV100333,,Software expense at JetBrains
+CLM0038,E020,Riya Sharma,Sales,Office Supplies,Amazon Business,2108.79,2026-07-03,2026-07-12,Yes,INV101127,,Office Supplies expense at Amazon Business
+CLM0039,E010,Tanvi Desai,Sales,Software,Microsoft 365,3500.68,2026-08-11,2026-08-24,Yes,INV100276,,Software expense at Microsoft 365
+CLM0040,E009,Arjun Patil,Operations,Client Entertainment,The Westin,1095.12,2026-08-25,2026-09-06,Yes,INV100262,,Client Entertainment expense at The Westin
+CLM0041,E005,Vikram Rao,Sales,Travel,IRCTC,5059.43,2026-09-09,2026-09-20,Yes,INV100839,,Travel expense at IRCTC
+CLM0042,E015,Rahul Deshmukh,Sales,Software,JetBrains,3395.21,2026-07-09,2026-07-27,Yes,INV101160,,Software expense at JetBrains
+CLM0043,E005,Vikram Rao,Sales,Accommodation,Taj Hotels,11317.74,2026-07-07,2026-07-17,Yes,INV101339,,Accommodation expense at Taj Hotels
+CLM0044,E016,Neha Kapoor,Engineering,Accommodation,Taj Hotels,2834.86,2026-07-13,2026-09-12,Yes,INV101501,,Accommodation expense at Taj Hotels
+CLM0045,E015,Rahul Deshmukh,Sales,Software,Atlassian,3176.39,2026-08-23,2026-09-02,Yes,INV101568,Verbally approved by manager,Software expense at Atlassian
+CLM0046,E015,Rahul Deshmukh,Sales,Travel,IndiGo,2579.67,2026-07-28,2026-08-14,Yes,INV100191,,Travel expense at IndiGo
+CLM0047,E016,Neha Kapoor,Engineering,Office Supplies,Staples,1115.6,2026-09-09,2026-09-14,Yes,INV100605,,Office Supplies expense at Staples
+CLM0048,E014,Anjali Gupta,Operations,Client Entertainment,The Westin,3600.0,2026-07-22,2026-07-29,Yes,INV101348,,Client Entertainment expense at The Westin
+CLM0049,E002,Diya Nair,Finance,Software,Atlassian,3513.55,2026-08-21,2026-09-02,Yes,INV101215,,Software expense at Atlassian
+CLM0050,E010,Tanvi Desai,Sales,Client Entertainment,Marriott Events,2549.66,2026-09-01,2026-09-08,Yes,INV101243,,Client Entertainment expense at Marriott Events
+CLM0051,E004,Sneha Kulkarni,Operations,Meals,Barbeque Nation,340.19,2026-07-23,2026-08-12,Yes,INV100968,,Meals expense at Barbeque Nation
+CLM0052,E010,Tanvi Desai,Sales,Accommodation,Taj Hotels,2747.2,2026-09-17,2026-10-07,Yes,INV100995,,Accommodation expense at Taj Hotels
+CLM0053,E013,Siddharth Jain,HR,Travel,IRCTC,5606.12,2026-07-29,2026-08-09,Yes,INV100962,,Travel expense at IRCTC
+CLM0054,E009,Arjun Patil,Operations,Client Entertainment,The Westin,1409.11,2026-09-14,2026-10-03,Yes,INV100619,,Client Entertainment expense at The Westin
+CLM0055,E004,Sneha Kulkarni,Operations,Office Supplies,Staples,2021.24,2026-09-16,2026-09-25,Yes,INV100028,,Office Supplies expense at Staples
+CLM0056,E009,Arjun Patil,Operations,Travel,Ola Corporate,5882.5,2026-09-10,2026-09-30,Yes,INV100883,,Travel expense at Ola Corporate
+CLM0057,E013,Siddharth Jain,HR,Client Entertainment,Marriott Events,2052.26,2026-08-07,2026-08-11,Yes,INV100944,,Client Entertainment expense at Marriott Events
+CLM0058,E003,Rohan Joshi,HR,Office Supplies,Staples,1128.6,2026-07-15,2026-07-28,Yes,INV100566,,Office Supplies expense at Staples
+CLM0059,E018,Kavya Reddy,HR,Office Supplies,Amazon Business,1667.92,2026-07-09,2026-07-19,Yes,INV101265,,Office Supplies expense at Amazon Business
+CLM0060,E013,Siddharth Jain,HR,Client Entertainment,Marriott Events,2592.53,2026-07-14,2026-07-22,Yes,INV100744,,Client Entertainment expense at Marriott Events
+CLM0061,E017,Aditya Pillai,Finance,Office Supplies,Staples,3000.0,2026-09-02,2026-09-12,Yes,INV101356,,Office Supplies expense at Staples
+CLM0062,E002,Diya Nair,Finance,Travel,IndiGo,6610.48,2026-07-31,2026-08-06,Yes,INV100145,,Travel expense at IndiGo
+CLM0063,E005,Vikram Rao,Sales,Office Supplies,Amazon Business,1454.24,2026-08-03,2026-08-14,Yes,INV100656,,Office Supplies expense at Amazon Business
+CLM0064,E010,Tanvi Desai,Sales,Meals,Zomato Business,653.06,2026-09-29,2026-10-06,No,INV101477,,Meals expense at Zomato Business
+CLM0065,E015,Rahul Deshmukh,Sales,Office Supplies,Amazon Business,2098.9,2026-08-11,2026-08-31,Yes,INV100832,,Office Supplies expense at Amazon Business
+CLM0066,E014,Anjali Gupta,Operations,Meals,Social,439.85,2026-07-01,2026-09-09,Yes,INV101505,,Meals expense at Social
+CLM0067,E005,Vikram Rao,Sales,Client Entertainment,Hard Rock Cafe,2245.92,2026-07-18,2026-08-07,Yes,INV101547,Pre-approved exception APR-8834,Client Entertainment expense at Hard Rock Cafe
+CLM0068,E012,Priya Menon,Finance,Meals,Zomato Business,900.0,2026-08-20,2026-09-07,Yes,INV101396,,Meals expense at Zomato Business
+CLM0069,E006,Ishita Shah,Engineering,Accommodation,OYO Business,3104.87,2026-09-04,2026-09-12,Yes,INV101296,,Accommodation expense at OYO Business
+CLM0070,E020,Riya Sharma,Sales,Accommodation,Lemon Tree,2043.95,2026-09-03,2026-09-10,Yes,INV100868,,Accommodation expense at Lemon Tree
+CLM0071,E003,Rohan Joshi,HR,Office Supplies,Amazon Business,2238.39,2026-07-15,2026-07-30,Yes,INV100593,,Office Supplies expense at Amazon Business
+CLM0072,E006,Ishita Shah,Engineering,Meals,Barbeque Nation,599.11,2026-09-18,2026-09-24,Yes,INV101065,,Meals expense at Barbeque Nation
+CLM0073,E015,Rahul Deshmukh,Sales,Software,Adobe,3102.03,2026-08-17,2026-09-05,Yes,INV101078,,Software expense at Adobe
+CLM0074,E012,Priya Menon,Finance,Client Entertainment,Hard Rock Cafe,2693.94,2026-09-09,2026-09-20,Yes,INV100457,,Client Entertainment expense at Hard Rock Cafe
+CLM0075,E007,Kabir Singh,Finance,Client Entertainment,The Westin,2124.62,2026-09-28,2026-12-07,Yes,INV101549,Pre-approved exception APR-8714,Client Entertainment expense at The Westin
+CLM0076,E003,Rohan Joshi,HR,Accommodation,OYO Business,1775.68,2026-09-09,2026-09-12,Yes,INV100513,,Accommodation expense at OYO Business
+CLM0077,E005,Vikram Rao,Sales,Meals,Social,535.73,2026-08-23,2026-09-06,Yes,INV101449,,Meals expense at Social
+CLM0078,E001,Aarav Mehta,Engineering,Accommodation,Ibis,3242.29,2026-07-24,2026-08-09,Yes,INV100424,,Accommodation expense at Ibis
+CLM0079,E004,Sneha Kulkarni,Operations,Accommodation,OYO Business,1659.7,2026-08-31,2026-09-09,Yes,INV100470,,Accommodation expense at OYO Business
+CLM0080,E008,Meera Iyer,HR,Office Supplies,Amazon Business,1734.09,2026-07-01,2026-07-05,Yes,INV100315,,Office Supplies expense at Amazon Business
+CLM0081,E014,Anjali Gupta,Operations,Meals,Cafe Coffee Day,650.89,2026-07-29,2026-08-13,Yes,INV101105,,Meals expense at Cafe Coffee Day
+CLM0082,E010,Tanvi Desai,Sales,Client Entertainment,The Westin,2398.73,2026-08-07,2026-08-15,Yes,INV100476,,Client Entertainment expense at The Westin
+CLM0083,E001,Aarav Mehta,Engineering,Client Entertainment,Marriott Events,1257.91,2026-09-22,2026-10-10,Yes,INV100018,,Client Entertainment expense at Marriott Events
+CLM0084,E007,Kabir Singh,Finance,Accommodation,Taj Hotels,1993.64,2026-09-03,2026-11-06,Yes,INV101523,,Accommodation expense at Taj Hotels
+CLM0085,E005,Vikram Rao,Sales,Client Entertainment,Hard Rock Cafe,2078.86,2026-09-01,2026-09-21,Yes,INV100778,,Client Entertainment expense at Hard Rock Cafe
+CLM0086,E001,Aarav Mehta,Engineering,Client Entertainment,Hard Rock Cafe,2445.13,2026-07-17,2026-08-04,Yes,INV100804,,Client Entertainment expense at Hard Rock Cafe
+CLM0087,E015,Rahul Deshmukh,Sales,Software,Microsoft 365,2841.39,2026-09-17,2026-10-01,Yes,INV101206,,Software expense at Microsoft 365
+CLM0088,E003,Rohan Joshi,HR,Meals,Social,302.7,2026-09-30,2026-10-15,Yes,INV101245,,Meals expense at Social
+CLM0089,E001,Aarav Mehta,Engineering,Client Entertainment,Marriott Events,1754.26,2026-09-27,2026-10-16,Yes,INV101429,,Client Entertainment expense at Marriott Events
+CLM0090,E016,Neha Kapoor,Engineering,Accommodation,Ibis,4800.0,2026-08-06,2026-08-24,Yes,INV101366,,Accommodation expense at Ibis
+CLM0091,E002,Diya Nair,Finance,Travel,Ola Corporate,5816.83,2026-09-15,2026-10-04,Yes,INV100529,,Travel expense at Ola Corporate
+CLM0092,E014,Anjali Gupta,Operations,Travel,IndiGo,4034.04,2026-08-17,2026-08-25,Yes,INV101112,,Travel expense at IndiGo
+CLM0093,E001,Aarav Mehta,Engineering,Meals,Zomato Business,1936.47,2026-08-19,2026-08-27,Yes,INV101538,Pre-approved exception APR-5064,Meals expense at Zomato Business
+CLM0094,E005,Vikram Rao,Sales,Client Entertainment,The Westin,1656.8,2026-08-18,2026-08-24,Yes,INV100281,,Client Entertainment expense at The Westin
+CLM0095,E018,Kavya Reddy,HR,Client Entertainment,The Westin,1959.19,2026-07-01,2026-07-04,Yes,INV100114,,Client Entertainment expense at The Westin
+CLM0096,E008,Meera Iyer,HR,Office Supplies,Amazon Business,1608.86,2026-09-26,2026-09-30,Yes,INV101440,,Office Supplies expense at Amazon Business
+CLM0097,E006,Ishita Shah,Engineering,Office Supplies,Staples,754.87,2026-08-03,2026-08-20,Yes,INV100083,,Office Supplies expense at Staples
+CLM0098,E002,Diya Nair,Finance,Client Entertainment,Hard Rock Cafe,1858.94,2026-09-23,2026-10-05,Yes,INV100391,,Client Entertainment expense at Hard Rock Cafe
+CLM0099,E014,Anjali Gupta,Operations,Client Entertainment,The Westin,3600.0,2026-07-21,2026-08-01,Yes,INV101345,,Client Entertainment expense at The Westin
+CLM0100,E016,Neha Kapoor,Engineering,Accommodation,OYO Business,2494.16,2026-07-13,2026-07-17,Yes,INV100125,,Accommodation expense at OYO Business
+CLM0101,E013,Siddharth Jain,HR,Software,Microsoft 365,1524.29,2026-07-07,2026-07-27,Yes,INV100710,,Software expense at Microsoft 365
+CLM0102,E015,Rahul Deshmukh,Sales,Office Supplies,Staples,1763.44,2026-09-04,2026-09-22,Yes,INV101284,,Office Supplies expense at Staples
+CLM0103,E019,Yash Malhotra,Operations,Travel,Ola Corporate,4632.57,2026-08-20,2026-08-31,Yes,INV101230,,Travel expense at Ola Corporate
+CLM0104,E004,Sneha Kulkarni,Operations,Software,Atlassian,3724.65,2026-07-29,2026-08-03,Yes,INV100002,,Software expense at Atlassian
+CLM0105,E009,Arjun Patil,Operations,Meals,Zomato Business,900.0,2026-07-06,2026-07-19,Yes,INV101374,,Meals expense at Zomato Business
+CLM0106,E015,Rahul Deshmukh,Sales,Software,Atlassian,4419.35,2026-08-18,2026-08-21,Yes,INV100037,,Software expense at Atlassian
+CLM0107,E009,Arjun Patil,Operations,Software,Microsoft 365,4360.78,2026-07-09,2026-07-12,Yes,INV100855,,Software expense at Microsoft 365
+CLM0108,E018,Kavya Reddy,HR,Meals,Social,275.03,2026-08-06,2026-08-14,Yes,INV101132,,Meals expense at Social
+CLM0109,E015,Rahul Deshmukh,Sales,Accommodation,Lemon Tree,1590.37,2026-07-27,2026-08-05,Yes,INV100047,,Accommodation expense at Lemon Tree
+CLM0110,E019,Yash Malhotra,Operations,Travel,IndiGo,2932.77,2026-09-11,2026-09-21,Yes,INV100492,,Travel expense at IndiGo
+CLM0111,E009,Arjun Patil,Operations,Travel,Uber Business,2763.39,2026-07-09,2026-07-22,Yes,INV100490,,Travel expense at Uber Business
+CLM0112,E016,Neha Kapoor,Engineering,Software,Adobe,4041.82,2026-08-14,2026-09-01,Yes,INV100874,,Software expense at Adobe
+CLM0113,E003,Rohan Joshi,HR,Software,Microsoft 365,3046.36,2026-09-18,2026-09-29,Yes,INV100292,,Software expense at Microsoft 365
+CLM0114,E020,Riya Sharma,Sales,Accommodation,Lemon Tree,2585.65,2026-09-29,2026-10-02,Yes,INV100038,,Accommodation expense at Lemon Tree
+CLM0115,E008,Meera Iyer,HR,Accommodation,OYO Business,3088.75,2026-07-27,2026-07-30,Yes,INV100796,,Accommodation expense at OYO Business
+CLM0116,E008,Meera Iyer,HR,Meals,Social,660.27,2026-09-10,2026-09-22,Yes,INV100731,,Meals expense at Social
+CLM0117,E005,Vikram Rao,Sales,Meals,Barbeque Nation,580.67,2026-09-09,2026-09-28,Yes,INV101258,,Meals expense at Barbeque Nation
+CLM0118,E011,Nikhil Verma,Engineering,Travel,Ola Corporate,5855.95,2026-09-18,2026-10-03,Yes,INV100950,,Travel expense at Ola Corporate
+CLM0119,E015,Rahul Deshmukh,Sales,Meals,Social,380.31,2026-09-09,2026-09-27,Yes,INV100626,,Meals expense at Social
+CLM0120,E001,Aarav Mehta,Engineering,Software,Microsoft 365,12029.06,2026-08-07,2026-08-26,Yes,INV101527,Pre-approved exception APR-4050,Software expense at Microsoft 365
+CLM0121,E020,Riya Sharma,Sales,Travel,IRCTC,6368.65,2026-07-29,2026-08-01,Yes,INV100752,,Travel expense at IRCTC
+CLM0122,E006,Ishita Shah,Engineering,Meals,Zomato Business,609.52,2026-09-03,2026-10-20,Yes,INV101566,Pre-approved exception APR-9792,Meals expense at Zomato Business
+CLM0123,E004,Sneha Kulkarni,Operations,Meals,Cafe Coffee Day,556.05,2026-09-02,2026-09-19,Yes,INV101237,,Meals expense at Cafe Coffee Day
+CLM0124,E018,Kavya Reddy,HR,Office Supplies,Reliance Digital,1203.78,2026-09-22,2026-10-09,Yes,INV100195,,Office Supplies expense at Reliance Digital
+CLM0125,E004,Sneha Kulkarni,Operations,Meals,Cafe Coffee Day,284.31,2026-07-31,2026-08-19,Yes,INV100810,,Meals expense at Cafe Coffee Day
+CLM0126,E015,Rahul Deshmukh,Sales,Office Supplies,Staples,1988.6,2026-09-14,2026-09-23,Yes,INV100413,,Office Supplies expense at Staples
+CLM0127,E012,Priya Menon,Finance,Meals,Barbeque Nation,467.72,2026-07-01,2026-07-21,Yes,INV100093,,Meals expense at Barbeque Nation
+CLM0128,E012,Priya Menon,Finance,Meals,Zomato Business,900.0,2026-08-19,2026-09-05,Yes,INV101391,,Meals expense at Zomato Business
+CLM0129,E005,Vikram Rao,Sales,Software,JetBrains,4297.96,2026-08-07,2026-08-24,Yes,INV100598,,Software expense at JetBrains
+CLM0130,E019,Yash Malhotra,Operations,Client Entertainment,Marriott Events,9292.15,2026-07-20,2026-07-26,Yes,INV101302,,Client Entertainment expense at Marriott Events
+CLM0131,E005,Vikram Rao,Sales,Meals,Barbeque Nation,496.11,2026-08-16,2026-08-29,Yes,INV101405,,Meals expense at Barbeque Nation
+CLM0132,E007,Kabir Singh,Finance,Meals,Cafe Coffee Day,504.6,2026-07-31,2026-08-05,Yes,INV100378,,Meals expense at Cafe Coffee Day
+CLM0133,E001,Aarav Mehta,Engineering,Office Supplies,Staples,1554.86,2026-08-28,2026-09-09,Yes,INV100736,,Office Supplies expense at Staples
+CLM0134,E018,Kavya Reddy,HR,Office Supplies,Reliance Digital,1490.87,2026-08-12,2026-10-04,Yes,INV101515,,Office Supplies expense at Reliance Digital
+CLM0135,E007,Kabir Singh,Finance,Accommodation,Taj Hotels,3098.66,2026-07-06,2026-07-17,Yes,INV101165,,Accommodation expense at Taj Hotels
+CLM0136,E018,Kavya Reddy,HR,Office Supplies,Staples,2158.86,2026-07-15,2026-07-24,Yes,INV100256,,Office Supplies expense at Staples
+CLM0137,E003,Rohan Joshi,HR,Software,Adobe,4353.88,2026-09-02,2026-09-17,Yes,INV100976,,Software expense at Adobe
+CLM0138,E015,Rahul Deshmukh,Sales,Software,JetBrains,3182.72,2026-07-15,2026-07-18,Yes,INV100219,,Software expense at JetBrains
+CLM0139,E020,Riya Sharma,Sales,Travel,IndiGo,5288.46,2026-07-31,2026-08-13,Yes,INV100173,,Travel expense at IndiGo
+CLM0140,E010,Tanvi Desai,Sales,Software,Adobe,2315.15,2026-08-10,2026-08-28,Yes,INV100335,,Software expense at Adobe
+CLM0141,E020,Riya Sharma,Sales,Office Supplies,Amazon Business,2108.79,2026-07-03,2026-07-14,Yes,INV101127,,Office Supplies expense at Amazon Business
+CLM0142,E019,Yash Malhotra,Operations,Meals,Barbeque Nation,590.87,2026-07-30,2026-08-10,Yes,INV100799,,Meals expense at Barbeque Nation
+CLM0143,E010,Tanvi Desai,Sales,Software,JetBrains,1850.03,2026-07-06,2026-07-08,Yes,INV100757,,Software expense at JetBrains
+CLM0144,E009,Arjun Patil,Operations,Accommodation,OYO Business,1716.75,2026-08-13,2026-08-17,Yes,INV100027,,Accommodation expense at OYO Business
+CLM0145,E018,Kavya Reddy,HR,Client Entertainment,The Westin,2246.36,2026-07-08,2026-07-10,Yes,INV100168,,Client Entertainment expense at The Westin
+CLM0146,E010,Tanvi Desai,Sales,Accommodation,OYO Business,1735.02,2026-09-23,2026-09-30,Yes,INV100244,,Accommodation expense at OYO Business
+CLM0147,E003,Rohan Joshi,HR,Meals,Social,503.87,2026-07-31,2026-08-16,Yes,INV100686,,Meals expense at Social
+CLM0148,E016,Neha Kapoor,Engineering,Meals,Barbeque Nation,460.9,2026-09-13,2026-10-03,Yes,INV101436,,Meals expense at Barbeque Nation
+CLM0149,E011,Nikhil Verma,Engineering,Office Supplies,Reliance Digital,1646.83,2026-09-21,2026-10-02,Yes,INV101018,,Office Supplies expense at Reliance Digital
+CLM0150,E008,Meera Iyer,HR,Office Supplies,Staples,1403.75,2026-08-19,2026-08-30,Yes,INV100356,,Office Supplies expense at Staples
+CLM0151,E014,Anjali Gupta,Operations,Travel,IndiGo,3344.92,2026-09-14,2026-09-27,Yes,INV100959,,Travel expense at IndiGo
+CLM0152,E006,Ishita Shah,Engineering,Travel,IRCTC,2485.8,2026-07-15,2026-07-18,Yes,INV100818,,Travel expense at IRCTC
+CLM0153,E001,Aarav Mehta,Engineering,Office Supplies,Reliance Digital,1279.22,2026-07-24,2026-07-27,Yes,INV101148,,Office Supplies expense at Reliance Digital
+CLM0154,E009,Arjun Patil,Operations,Software,Atlassian,3789.33,2026-07-23,2026-08-08,Yes,INV100551,,Software expense at Atlassian
+CLM0155,E007,Kabir Singh,Finance,Client Entertainment,Marriott Events,1461.09,2026-09-24,2026-10-06,Yes,INV100112,,Client Entertainment expense at Marriott Events
+CLM0156,E018,Kavya Reddy,HR,Client Entertainment,The Westin,2246.36,2026-07-08,2026-07-12,Yes,INV100168,,Client Entertainment expense at The Westin
+CLM0157,E001,Aarav Mehta,Engineering,Travel,Ola Corporate,5444.02,2026-09-09,2026-09-10,Yes,INV100591,,Travel expense at Ola Corporate
+CLM0158,E020,Riya Sharma,Sales,Meals,Barbeque Nation,613.81,2026-08-05,2026-08-19,Yes,INV100611,,Meals expense at Barbeque Nation
+CLM0159,E014,Anjali Gupta,Operations,Meals,Zomato Business,2016.57,2026-08-21,2026-08-25,Yes,INV101530,Pre-approved exception APR-7643,Meals expense at Zomato Business
+CLM0160,E015,Rahul Deshmukh,Sales,Office Supplies,Staples,1763.44,2026-09-04,2026-09-20,Yes,INV100290,,Office Supplies expense at Staples
+CLM0161,E019,Yash Malhotra,Operations,Office Supplies,Reliance Digital,779.3,2026-08-18,2026-09-03,Yes,INV100345,,Office Supplies expense at Reliance Digital
+CLM0162,E018,Kavya Reddy,HR,Accommodation,Lemon Tree,2559.61,2026-08-06,2026-08-10,No,INV101486,,Accommodation expense at Lemon Tree
+CLM0163,E005,Vikram Rao,Sales,Software,JetBrains,4394.47,2026-07-17,2026-08-03,Yes,INV100646,,Software expense at JetBrains
+CLM0164,E005,Vikram Rao,Sales,Client Entertainment,The Westin,1656.8,2026-08-18,2026-08-27,Yes,INV100281,,Client Entertainment expense at The Westin
+CLM0165,E016,Neha Kapoor,Engineering,Client Entertainment,The Westin,1563.04,2026-08-08,2026-08-12,Yes,INV101425,,Client Entertainment expense at The Westin
+CLM0166,E017,Aditya Pillai,Finance,Office Supplies,Reliance Digital,1643.18,2026-08-26,2026-09-15,Yes,INV100327,,Office Supplies expense at Reliance Digital
+CLM0167,E019,Yash Malhotra,Operations,Office Supplies,Reliance Digital,1744.5,2026-09-21,2026-10-05,Yes,INV100360,,Office Supplies expense at Reliance Digital
+CLM0168,E017,Aditya Pillai,Finance,Office Supplies,Staples,3000.0,2026-07-29,2026-07-31,Yes,INV101365,,Office Supplies expense at Staples
+CLM0169,E010,Tanvi Desai,Sales,Office Supplies,Staples,1504.36,2026-07-21,2026-07-28,Yes,INV101081,,Office Supplies expense at Staples
+CLM0170,E015,Rahul Deshmukh,Sales,Software,Microsoft 365,2419.87,2026-07-30,2026-08-03,Yes,INV100461,,Software expense at Microsoft 365
+CLM0171,E019,Yash Malhotra,Operations,Software,Microsoft 365,4092.74,2026-08-10,2026-08-15,Yes,INV100984,,Software expense at Microsoft 365
+CLM0172,E005,Vikram Rao,Sales,Travel,Ola Corporate,5644.96,2026-07-07,2026-07-10,Yes,INV100905,,Travel expense at Ola Corporate
+CLM0173,E001,Aarav Mehta,Engineering,Accommodation,OYO Business,2587.95,2026-08-20,2026-10-09,Yes,INV101569,Verbally approved by manager,Accommodation expense at OYO Business
+CLM0174,E008,Meera Iyer,HR,Meals,Barbeque Nation,294.73,2026-08-07,2026-08-11,Yes,INV101050,,Meals expense at Barbeque Nation
+CLM0175,E019,Yash Malhotra,Operations,Travel,IndiGo,2527.91,2026-08-27,2026-11-03,Yes,INV101558,Pre-approved exception APR-6927,Travel expense at IndiGo
+CLM0176,E001,Aarav Mehta,Engineering,Accommodation,OYO Business,3287.67,2026-09-11,2026-09-24,Yes,INV100891,,Accommodation expense at OYO Business
+CLM0177,E014,Anjali Gupta,Operations,Meals,Cafe Coffee Day,305.71,2026-08-12,2026-08-26,Yes,INV100229,,Meals expense at Cafe Coffee Day
+CLM0178,E015,Rahul Deshmukh,Sales,Meals,Zomato Business,589.24,2026-07-01,2026-07-07,Yes,INV100025,,Meals expense at Zomato Business
+CLM0179,E014,Anjali Gupta,Operations,Office Supplies,Staples,1563.92,2026-07-08,2026-07-15,Yes,INV100344,,Office Supplies expense at Staples
+CLM0180,E008,Meera Iyer,HR,Accommodation,Taj Hotels,3074.96,2026-09-22,2026-09-24,Yes,INV100370,,Accommodation expense at Taj Hotels
+CLM0181,E018,Kavya Reddy,HR,Accommodation,Ibis,3537.21,2026-07-20,2026-07-28,Yes,INV100225,,Accommodation expense at Ibis
+CLM0182,E012,Priya Menon,Finance,Office Supplies,Staples,1249.96,2026-09-24,2026-09-28,Yes,INV100556,,Office Supplies expense at Staples
+CLM0183,E006,Ishita Shah,Engineering,Accommodation,Taj Hotels,2118.1,2026-07-29,2026-08-05,Yes,INV100237,,Accommodation expense at Taj Hotels
+CLM0184,E004,Sneha Kulkarni,Operations,Accommodation,Ibis,1881.95,2026-09-23,2026-10-13,Yes,INV101021,,Accommodation expense at Ibis
+CLM0185,E015,Rahul Deshmukh,Sales,Software,JetBrains,3395.21,2026-07-09,2026-07-24,Yes,INV101160,,Software expense at JetBrains
+CLM0186,E008,Meera Iyer,HR,Accommodation,Lemon Tree,1725.61,2026-09-18,2026-09-27,Yes,INV100713,,Accommodation expense at Lemon Tree
+CLM0187,E010,Tanvi Desai,Sales,Meals,Cafe Coffee Day,229.17,2026-08-20,2026-10-25,Yes,INV101512,,Meals expense at Cafe Coffee Day
+CLM0188,E018,Kavya Reddy,HR,Software,Microsoft 365,3805.8,2026-08-13,2026-08-17,Yes,INV100080,,Software expense at Microsoft 365
+CLM0189,E006,Ishita Shah,Engineering,Client Entertainment,Marriott Events,2212.43,2026-07-21,2026-08-05,Yes,INV100054,,Client Entertainment expense at Marriott Events
+CLM0190,E014,Anjali Gupta,Operations,Office Supplies,Staples,1660.61,2026-08-04,2026-08-11,Yes,INV100914,,Office Supplies expense at Staples
+CLM0191,E010,Tanvi Desai,Sales,Software,Microsoft 365,2837.75,2026-09-30,2026-10-15,Yes,INV101201,,Software expense at Microsoft 365
+CLM0192,E002,Diya Nair,Finance,Client Entertainment,Marriott Events,2309.81,2026-09-23,2026-10-10,Yes,INV100827,,Client Entertainment expense at Marriott Events
+CLM0193,E002,Diya Nair,Finance,Meals,Barbeque Nation,512.08,2026-09-17,2026-11-06,Yes,INV101498,,Meals expense at Barbeque Nation
+CLM0194,E018,Kavya Reddy,HR,Client Entertainment,Marriott Events,1606.7,2026-08-04,2026-08-09,No,INV101497,,Client Entertainment expense at Marriott Events
+CLM0195,E016,Neha Kapoor,Engineering,Software,JetBrains,4154.05,2026-09-21,2026-10-06,Yes,INV100062,,Software expense at JetBrains
+CLM0196,E009,Arjun Patil,Operations,Meals,Social,338.0,2026-07-07,2026-07-10,Yes,INV100213,,Meals expense at Social
+CLM0197,E020,Riya Sharma,Sales,Travel,IRCTC,2380.29,2026-08-04,2026-08-14,Yes,INV100889,,Travel expense at IRCTC
+CLM0198,E005,Vikram Rao,Sales,Client Entertainment,Marriott Events,1709.86,2026-08-17,2026-08-29,Yes,INV101225,,Client Entertainment expense at Marriott Events
+CLM0199,E003,Rohan Joshi,HR,Client Entertainment,The Westin,2217.43,2026-07-09,2026-07-27,Yes,INV100100,,Client Entertainment expense at The Westin
+CLM0200,E003,Rohan Joshi,HR,Meals,Zomato Business,621.73,2026-09-11,2026-10-01,Yes,INV100420,,Meals expense at Zomato Business
+CLM0201,E004,Sneha Kulkarni,Operations,Office Supplies,Reliance Digital,1087.21,2026-07-20,2026-07-29,Yes,INV100524,,Office Supplies expense at Reliance Digital
+CLM0202,E004,Sneha Kulkarni,Operations,Client Entertainment,Marriott Events,1437.2,2026-09-03,2026-09-23,Yes,INV100087,,Client Entertainment expense at Marriott Events
+CLM0203,E003,Rohan Joshi,HR,Office Supplies,Reliance Digital,1068.16,2026-09-15,2026-09-16,Yes,INV100787,,Office Supplies expense at Reliance Digital
+CLM0204,E011,Nikhil Verma,Engineering,Accommodation,Ibis,1867.82,2026-07-03,2026-07-21,Yes,INV100369,,Accommodation expense at Ibis
+CLM0205,E012,Priya Menon,Finance,Accommodation,Taj Hotels,3357.42,2026-07-27,2026-08-04,Yes,INV100222,,Accommodation expense at Taj Hotels
+CLM0206,E002,Diya Nair,Finance,Client Entertainment,Marriott Events,2580.78,2026-07-27,2026-08-14,No,INV101455,,Client Entertainment expense at Marriott Events
+CLM0207,E003,Rohan Joshi,HR,Office Supplies,Reliance Digital,2131.16,2026-09-18,2026-09-29,Yes,INV100271,,Office Supplies expense at Reliance Digital
+CLM0208,E013,Siddharth Jain,HR,Meals,Barbeque Nation,362.79,2026-08-17,2026-09-02,Yes,INV100451,,Meals expense at Barbeque Nation
+CLM0209,E011,Nikhil Verma,Engineering,Accommodation,Lemon Tree,12197.3,2026-08-14,2026-08-27,Yes,INV101330,,Accommodation expense at Lemon Tree
+CLM0210,E014,Anjali Gupta,Operations,Meals,Cafe Coffee Day,368.18,2026-09-29,2026-10-12,Yes,INV100640,,Meals expense at Cafe Coffee Day
+CLM0211,E017,Aditya Pillai,Finance,Accommodation,Lemon Tree,3122.76,2026-08-24,2026-08-27,Yes,INV101192,,Accommodation expense at Lemon Tree
+CLM0212,E002,Diya Nair,Finance,Travel,Ola Corporate,4139.21,2026-09-18,2026-10-03,Yes,INV101134,,Travel expense at Ola Corporate
+CLM0213,E004,Sneha Kulkarni,Operations,Accommodation,Lemon Tree,11683.89,2026-07-31,2026-08-15,Yes,INV101332,,Accommodation expense at Lemon Tree
+CLM0214,E014,Anjali Gupta,Operations,Accommodation,OYO Business,1786.07,2026-09-11,2026-09-17,Yes,INV100683,,Accommodation expense at OYO Business
+CLM0215,E005,Vikram Rao,Sales,Accommodation,OYO Business,2987.97,2026-09-07,2026-09-16,Yes,INV100069,,Accommodation expense at OYO Business
+CLM0216,E018,Kavya Reddy,HR,Client Entertainment,Hard Rock Cafe,1687.97,2026-09-15,2026-09-17,Yes,INV100541,,Client Entertainment expense at Hard Rock Cafe
+CLM0217,E017,Aditya Pillai,Finance,Accommodation,Taj Hotels,1944.98,2026-08-27,2026-08-29,Yes,INV100986,,Accommodation expense at Taj Hotels
+CLM0218,E018,Kavya Reddy,HR,Software,JetBrains,1964.39,2026-08-07,2026-08-14,Yes,INV100160,,Software expense at JetBrains
+CLM0219,E019,Yash Malhotra,Operations,Travel,IRCTC,5265.06,2026-09-24,2026-10-08,Yes,INV100865,,Travel expense at IRCTC
+CLM0220,E017,Aditya Pillai,Finance,Client Entertainment,The Westin,2091.47,2026-09-18,2026-09-23,Yes,INV101057,,Client Entertainment expense at The Westin
+CLM0221,E014,Anjali Gupta,Operations,Meals,Barbeque Nation,645.27,2026-09-07,2026-10-14,Yes,INV101510,,Meals expense at Barbeque Nation
+CLM0222,E017,Aditya Pillai,Finance,Office Supplies,Staples,3000.0,2026-09-03,2026-09-04,Yes,INV101358,,Office Supplies expense at Staples
+CLM0223,E005,Vikram Rao,Sales,Meals,Zomato Business,586.78,2026-07-05,2026-07-22,Yes,INV101413,,Meals expense at Zomato Business
+CLM0224,E018,Kavya Reddy,HR,Client Entertainment,Marriott Events,2194.97,2026-09-24,2026-10-01,Yes,INV100269,,Client Entertainment expense at Marriott Events
+CLM0225,E003,Rohan Joshi,HR,Accommodation,OYO Business,1293.94,2026-09-29,2026-10-15,Yes,INV101009,,Accommodation expense at OYO Business
+CLM0226,E015,Rahul Deshmukh,Sales,Travel,IndiGo,4616.78,2026-08-28,2026-08-29,Yes,INV100649,,Travel expense at IndiGo
+CLM0227,E002,Diya Nair,Finance,Accommodation,Taj Hotels,2765.52,2026-08-06,2026-09-30,Yes,INV101509,,Accommodation expense at Taj Hotels
+CLM0228,E004,Sneha Kulkarni,Operations,Travel,Ola Corporate,3475.57,2026-09-16,2026-09-23,Yes,INV100206,,Travel expense at Ola Corporate
+CLM0229,E017,Aditya Pillai,Finance,Office Supplies,Staples,3000.0,2026-07-28,2026-08-16,Yes,INV101364,,Office Supplies expense at Staples
+CLM0230,E005,Vikram Rao,Sales,Meals,Barbeque Nation,397.37,2026-07-20,2026-07-27,Yes,INV100337,,Meals expense at Barbeque Nation
+CLM0231,E017,Aditya Pillai,Finance,Client Entertainment,The Westin,1002.38,2026-09-04,2026-09-07,Yes,INV100171,,Client Entertainment expense at The Westin
+CLM0232,E010,Tanvi Desai,Sales,Meals,Cafe Coffee Day,543.61,2026-07-17,2026-07-26,Yes,INV100477,,Meals expense at Cafe Coffee Day
+CLM0233,E019,Yash Malhotra,Operations,Travel,IRCTC,4362.29,2026-08-26,2026-09-06,Yes,INV100482,,Travel expense at IRCTC
+CLM0234,E015,Rahul Deshmukh,Sales,Software,Microsoft 365,2197.57,2026-08-31,2026-09-07,No,INV101495,,Software expense at Microsoft 365
+CLM0235,E006,Ishita Shah,Engineering,Software,JetBrains,4258.62,2026-09-18,2026-10-06,Yes,INV100357,,Software expense at JetBrains
+CLM0236,E011,Nikhil Verma,Engineering,Office Supplies,Amazon Business,2221.16,2026-07-31,2026-08-19,Yes,INV100633,,Office Supplies expense at Amazon Business
+CLM0237,E009,Arjun Patil,Operations,Accommodation,Ibis,2692.55,2026-08-05,2026-08-23,No,INV101469,,Accommodation expense at Ibis
+CLM0238,E017,Aditya Pillai,Finance,Travel,Ola Corporate,2635.26,2026-09-01,2026-09-19,Yes,INV100437,,Travel expense at Ola Corporate
+CLM0239,E012,Priya Menon,Finance,Office Supplies,Reliance Digital,1640.5,2026-08-27,2026-09-13,Yes,INV100822,,Office Supplies expense at Reliance Digital
+CLM0240,E020,Riya Sharma,Sales,Accommodation,Ibis,2403.28,2026-07-08,2026-07-28,Yes,INV101001,,Accommodation expense at Ibis
+CLM0241,E010,Tanvi Desai,Sales,Meals,Cafe Coffee Day,485.41,2026-09-25,2026-10-08,Yes,INV100387,,Meals expense at Cafe Coffee Day
+CLM0242,E013,Siddharth Jain,HR,Accommodation,Lemon Tree,1358.85,2026-09-11,2026-09-22,Yes,INV100059,,Accommodation expense at Lemon Tree
+CLM0243,E009,Arjun Patil,Operations,Meals,Zomato Business,900.0,2026-07-07,2026-07-26,Yes,INV101383,,Meals expense at Zomato Business
+CLM0244,E004,Sneha Kulkarni,Operations,Client Entertainment,Hard Rock Cafe,2294.94,2026-09-29,2026-10-14,Yes,INV101241,,Client Entertainment expense at Hard Rock Cafe
+CLM0245,E004,Sneha Kulkarni,Operations,Meals,Social,497.84,2026-09-18,2026-09-26,Yes,INV100501,,Meals expense at Social
+CLM0246,E001,Aarav Mehta,Engineering,Office Supplies,Amazon Business,2247.88,2026-08-21,2026-09-04,Yes,INV100829,,Office Supplies expense at Amazon Business
+CLM0247,E004,Sneha Kulkarni,Operations,Office Supplies,Amazon Business,1102.2,2026-09-07,2026-09-12,Yes,INV100764,,Office Supplies expense at Amazon Business
+CLM0248,E012,Priya Menon,Finance,Meals,Cafe Coffee Day,620.67,2026-08-17,2026-08-27,Yes,INV100194,,Meals expense at Cafe Coffee Day
+CLM0249,E016,Neha Kapoor,Engineering,Travel,IndiGo,5093.8,2026-07-31,2026-08-05,Yes,INV101139,,Travel expense at IndiGo
+CLM0250,E011,Nikhil Verma,Engineering,Office Supplies,Amazon Business,1305.08,2026-08-11,2026-08-30,Yes,INV100900,,Office Supplies expense at Amazon Business
+CLM0251,E010,Tanvi Desai,Sales,Travel,IndiGo,5684.03,2026-08-04,2026-08-19,Yes,INV101099,,Travel expense at IndiGo
+CLM0252,E004,Sneha Kulkarni,Operations,Software,Atlassian,2426.8,2026-08-26,2026-08-28,Yes,INV100719,,Software expense at Atlassian
+CLM0253,E015,Rahul Deshmukh,Sales,Software,JetBrains,2517.11,2026-07-24,2026-08-09,Yes,INV101185,,Software expense at JetBrains
+CLM0254,E010,Tanvi Desai,Sales,Meals,Cafe Coffee Day,245.7,2026-07-08,2026-07-18,Yes,INV100680,,Meals expense at Cafe Coffee Day
+CLM0255,E013,Siddharth Jain,HR,Client Entertainment,Hard Rock Cafe,1294.78,2026-09-04,2026-09-20,Yes,INV100071,,Client Entertainment expense at Hard Rock Cafe
+CLM0256,E016,Neha Kapoor,Engineering,Software,Atlassian,3352.38,2026-07-31,2026-08-10,Yes,INV100666,,Software expense at Atlassian
+CLM0257,E005,Vikram Rao,Sales,Meals,Zomato Business,463.88,2026-08-04,2026-08-10,Yes,INV100727,,Meals expense at Zomato Business
+CLM0258,E017,Aditya Pillai,Finance,Client Entertainment,Marriott Events,1185.74,2026-08-17,2026-08-27,Yes,INV101016,,Client Entertainment expense at Marriott Events
+CLM0259,E014,Anjali Gupta,Operations,Travel,Uber Business,5352.17,2026-08-07,2026-08-09,Yes,INV100517,,Travel expense at Uber Business
+CLM0260,E018,Kavya Reddy,HR,Office Supplies,Staples,2095.81,2026-08-27,2026-09-05,Yes,INV100331,,Office Supplies expense at Staples
+CLM0261,E010,Tanvi Desai,Sales,Office Supplies,Reliance Digital,2055.6,2026-07-15,2026-07-30,Yes,INV100729,,Office Supplies expense at Reliance Digital
+CLM0262,E015,Rahul Deshmukh,Sales,Software,Microsoft 365,2044.47,2026-08-25,2026-09-10,Yes,INV100553,,Software expense at Microsoft 365
+CLM0263,E012,Priya Menon,Finance,Travel,IRCTC,2522.48,2026-08-05,2026-08-12,Yes,INV100786,,Travel expense at IRCTC
+CLM0264,E002,Diya Nair,Finance,Accommodation,Lemon Tree,1721.45,2026-08-26,2026-09-03,Yes,INV100784,,Accommodation expense at Lemon Tree
+CLM0265,E013,Siddharth Jain,HR,Software,Microsoft 365,3195.93,2026-07-23,2026-08-07,No,INV101464,,Software expense at Microsoft 365
+CLM0266,E013,Siddharth Jain,HR,Meals,Zomato Business,483.67,2026-09-28,2026-10-08,Yes,INV100702,,Meals expense at Zomato Business
+CLM0267,E006,Ishita Shah,Engineering,Accommodation,OYO Business,3104.87,2026-09-04,2026-09-12,Yes,INV101252,,Accommodation expense at OYO Business
+CLM0268,E006,Ishita Shah,Engineering,Meals,Social,247.6,2026-07-16,2026-07-31,Yes,INV100318,,Meals expense at Social
+CLM0269,E003,Rohan Joshi,HR,Meals,Cafe Coffee Day,611.84,2026-07-10,2026-07-27,Yes,INV100118,,Meals expense at Cafe Coffee Day
+CLM0270,E020,Riya Sharma,Sales,Client Entertainment,The Westin,1997.34,2026-07-13,2026-07-20,Yes,INV100510,,Client Entertainment expense at The Westin
+CLM0271,E011,Nikhil Verma,Engineering,Software,Microsoft 365,1577.59,2026-07-30,2026-08-18,Yes,INV100542,,Software expense at Microsoft 365
+CLM0272,E002,Diya Nair,Finance,Accommodation,Ibis,3297.88,2026-09-09,2026-09-13,Yes,INV101090,,Accommodation expense at Ibis
+CLM0273,E016,Neha Kapoor,Engineering,Travel,Uber Business,5091.23,2026-08-05,2026-08-24,Yes,INV100985,,Travel expense at Uber Business
+CLM0274,E001,Aarav Mehta,Engineering,Office Supplies,Amazon Business,2143.65,2026-07-31,2026-08-02,Yes,INV100097,,Office Supplies expense at Amazon Business
+CLM0275,E018,Kavya Reddy,HR,Travel,Uber Business,4109.61,2026-09-18,2026-10-04,Yes,INV100574,,Travel expense at Uber Business
+CLM0276,E016,Neha Kapoor,Engineering,Meals,Barbeque Nation,344.28,2026-09-16,2026-09-30,Yes,INV100104,,Meals expense at Barbeque Nation
+CLM0277,E012,Priya Menon,Finance,Travel,Ola Corporate,2376.84,2026-07-13,2026-07-24,Yes,INV101115,,Travel expense at Ola Corporate
+CLM0278,E013,Siddharth Jain,HR,Office Supplies,Reliance Digital,2244.18,2026-09-09,2026-09-10,Yes,INV100075,,Office Supplies expense at Reliance Digital
+CLM0279,E002,Diya Nair,Finance,Client Entertainment,Hard Rock Cafe,1948.52,2026-08-25,2026-08-30,Yes,INV100220,,Client Entertainment expense at Hard Rock Cafe
+CLM0280,E016,Neha Kapoor,Engineering,Office Supplies,Amazon Business,2046.98,2026-07-08,2026-07-14,Yes,INV100152,,Office Supplies expense at Amazon Business
+CLM0281,E018,Kavya Reddy,HR,Travel,IRCTC,5388.38,2026-07-17,2026-08-02,Yes,INV100479,,Travel expense at IRCTC
+CLM0282,E014,Anjali Gupta,Operations,Accommodation,Ibis,1891.72,2026-08-21,2026-09-08,Yes,INV100557,,Accommodation expense at Ibis
+CLM0283,E008,Meera Iyer,HR,Software,Microsoft 365,4455.66,2026-07-30,2026-08-03,Yes,INV100045,,Software expense at Microsoft 365
+CLM0284,E003,Rohan Joshi,HR,Accommodation,OYO Business,3400.19,2026-09-22,2026-10-05,Yes,INV101024,,Accommodation expense at OYO Business
+CLM0285,E006,Ishita Shah,Engineering,Meals,Social,533.73,2026-08-29,2026-09-08,Yes,INV101541,Pre-approved exception APR-6026,Meals expense at Social
+CLM0286,E009,Arjun Patil,Operations,Accommodation,Taj Hotels,3520.53,2026-08-05,2026-08-17,Yes,INV100253,,Accommodation expense at Taj Hotels
+CLM0287,E009,Arjun Patil,Operations,Accommodation,Lemon Tree,1871.18,2026-09-15,2026-09-24,Yes,INV100433,,Accommodation expense at Lemon Tree
+CLM0288,E003,Rohan Joshi,HR,Software,JetBrains,4435.01,2026-09-29,2026-10-03,Yes,INV100674,,Software expense at JetBrains
+CLM0289,E010,Tanvi Desai,Sales,Accommodation,Ibis,3248.28,2026-09-07,2026-09-25,Yes,INV100349,,Accommodation expense at Ibis
+CLM0290,E004,Sneha Kulkarni,Operations,Software,Adobe,2790.21,2026-07-30,2026-08-13,Yes,INV100847,,Software expense at Adobe
+CLM0291,E003,Rohan Joshi,HR,Accommodation,Taj Hotels,2137.09,2026-07-06,2026-07-19,Yes,INV101154,,Accommodation expense at Taj Hotels
+CLM0292,E007,Kabir Singh,Finance,Travel,IRCTC,4721.49,2026-08-06,2026-08-21,Yes,INV100582,,Travel expense at IRCTC
+CLM0293,E004,Sneha Kulkarni,Operations,Office Supplies,Staples,1783.02,2026-09-28,2026-10-11,Yes,INV100534,,Office Supplies expense at Staples
+CLM0294,E016,Neha Kapoor,Engineering,Travel,Uber Business,3040.63,2026-08-18,2026-09-05,Yes,INV100929,,Travel expense at Uber Business
+CLM0295,E014,Anjali Gupta,Operations,Travel,IRCTC,5293.63,2026-07-31,2026-08-17,Yes,INV101287,,Travel expense at IRCTC
+CLM0296,E012,Priya Menon,Finance,Travel,IRCTC,3061.18,2026-07-28,2026-08-08,Yes,INV101041,,Travel expense at IRCTC
+CLM0297,E006,Ishita Shah,Engineering,Travel,Uber Business,23730.44,2026-08-31,2026-09-15,Yes,INV101327,,Travel expense at Uber Business
+CLM0298,E011,Nikhil Verma,Engineering,Client Entertainment,The Westin,979.8,2026-09-08,2026-09-19,Yes,INV101159,,Client Entertainment expense at The Westin
+CLM0299,E005,Vikram Rao,Sales,Software,Atlassian,4228.88,2026-08-11,2026-08-25,Yes,INV100722,,Software expense at Atlassian
+CLM0300,E018,Kavya Reddy,HR,Accommodation,OYO Business,2843.07,2026-07-08,2026-07-16,Yes,INV100055,,Accommodation expense at OYO Business
+CLM0301,E018,Kavya Reddy,HR,Software,Atlassian,3271.48,2026-07-28,2026-08-05,Yes,INV100011,,Software expense at Atlassian
+CLM0302,E010,Tanvi Desai,Sales,Accommodation,Ibis,1370.83,2026-07-30,2026-08-08,Yes,INV100521,,Accommodation expense at Ibis
+CLM0303,E018,Kavya Reddy,HR,Office Supplies,Amazon Business,1205.81,2026-07-27,2026-08-10,Yes,INV100287,,Office Supplies expense at Amazon Business
+CLM0304,E015,Rahul Deshmukh,Sales,Office Supplies,Staples,1988.6,2026-09-14,2026-09-25,Yes,INV101280,,Office Supplies expense at Staples
+CLM0305,E017,Aditya Pillai,Finance,Travel,IndiGo,4637.72,2026-08-14,2026-08-26,Yes,INV100965,,Travel expense at IndiGo
+CLM0306,E001,Aarav Mehta,Engineering,Client Entertainment,The Westin,6773.02,2026-07-06,2026-07-25,Yes,INV101307,,Client Entertainment expense at The Westin
+CLM0307,E011,Nikhil Verma,Engineering,Client Entertainment,The Westin,2429.24,2026-09-01,2026-09-05,Yes,INV100398,,Client Entertainment expense at The Westin
+CLM0308,E020,Riya Sharma,Sales,Office Supplies,Reliance Digital,923.47,2026-07-06,2026-07-20,Yes,INV100263,,Office Supplies expense at Reliance Digital
+CLM0309,E013,Siddharth Jain,HR,Office Supplies,Staples,1844.42,2026-08-10,2026-08-24,Yes,INV100853,,Office Supplies expense at Staples
+CLM0310,E010,Tanvi Desai,Sales,Meals,Barbeque Nation,587.95,2026-07-06,2026-07-14,Yes,INV100300,,Meals expense at Barbeque Nation
+CLM0311,E019,Yash Malhotra,Operations,Software,JetBrains,12475.66,2026-09-18,2026-09-19,Yes,INV101315,,Software expense at JetBrains
+CLM0312,E019,Yash Malhotra,Operations,Software,Microsoft 365,4304.12,2026-07-27,2026-08-07,Yes,INV100184,,Software expense at Microsoft 365
+CLM0313,E010,Tanvi Desai,Sales,Client Entertainment,The Westin,1296.93,2026-09-15,2026-09-17,Yes,INV100923,,Client Entertainment expense at The Westin
+CLM0314,E010,Tanvi Desai,Sales,Meals,Barbeque Nation,570.31,2026-08-07,2026-08-18,Yes,INV100925,,Meals expense at Barbeque Nation
+CLM0315,E002,Diya Nair,Finance,Meals,Zomato Business,637.83,2026-09-28,2026-10-03,Yes,INV101123,,Meals expense at Zomato Business
+CLM0316,E018,Kavya Reddy,HR,Client Entertainment,Marriott Events,2351.16,2026-07-10,2026-07-23,Yes,INV100930,,Client Entertainment expense at Marriott Events
+CLM0317,E012,Priya Menon,Finance,Travel,Uber Business,2749.0,2026-09-25,2026-10-14,Yes,INV100922,,Travel expense at Uber Business
+CLM0318,E003,Rohan Joshi,HR,Client Entertainment,Hard Rock Cafe,1906.06,2026-09-21,2026-10-02,Yes,INV101027,,Client Entertainment expense at Hard Rock Cafe
+CLM0319,E003,Rohan Joshi,HR,Client Entertainment,Hard Rock Cafe,1645.99,2026-09-30,2026-10-13,Yes,INV100308,,Client Entertainment expense at Hard Rock Cafe
+CLM0320,E015,Rahul Deshmukh,Sales,Accommodation,OYO Business,2245.17,2026-09-22,2026-10-01,Yes,INV100407,,Accommodation expense at OYO Business
+CLM0321,E020,Riya Sharma,Sales,Accommodation,Ibis,2403.28,2026-07-08,2026-07-23,Yes,INV101001,,Accommodation expense at Ibis
+CLM0322,E018,Kavya Reddy,HR,Accommodation,OYO Business,1377.27,2026-08-14,2026-09-02,Yes,INV100699,,Accommodation expense at OYO Business
+CLM0323,E004,Sneha Kulkarni,Operations,Travel,Ola Corporate,5073.51,2026-08-24,2026-09-13,Yes,INV100073,,Travel expense at Ola Corporate
+CLM0324,E002,Diya Nair,Finance,Accommodation,Lemon Tree,1855.72,2026-08-17,2026-08-31,Yes,INV101177,,Accommodation expense at Lemon Tree
+CLM0325,E013,Siddharth Jain,HR,Travel,IRCTC,6419.33,2026-08-28,2026-09-07,Yes,INV100159,,Travel expense at IRCTC
+CLM0326,E014,Anjali Gupta,Operations,Accommodation,Ibis,2320.86,2026-07-07,2026-07-11,Yes,INV100126,,Accommodation expense at Ibis
+CLM0327,E010,Tanvi Desai,Sales,Software,JetBrains,14819.04,2026-08-21,2026-08-31,Yes,INV101323,,Software expense at JetBrains
+CLM0328,E006,Ishita Shah,Engineering,Office Supplies,Staples,1443.94,2026-07-10,2026-07-25,Yes,INV100138,,Office Supplies expense at Staples
+CLM0329,E017,Aditya Pillai,Finance,Client Entertainment,Hard Rock Cafe,1716.69,2026-09-16,2026-09-30,Yes,INV100841,,Client Entertainment expense at Hard Rock Cafe
+CLM0330,E017,Aditya Pillai,Finance,Software,Atlassian,3438.07,2026-08-24,2026-09-10,Yes,INV101033,,Software expense at Atlassian
