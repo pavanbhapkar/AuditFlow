@@ -1,8 +1,5 @@
 # AuditFlow: Agentic Expense Compliance Auditor
 
-CA-3 Agentic AI Proof of Concept, Symbiosis Institute of Technology, Pune.
-Author: Pavan Bhapkar (PRN 24070126137, AIML 24-28 B3)
-
 ## Problem
 Auditors check expense claims manually against policy, usually on a small sample, so duplicates,
 over-limit spending, split billing and policy breaches slip through. AuditFlow uses a team of
